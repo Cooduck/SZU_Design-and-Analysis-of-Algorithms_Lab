@@ -1,0 +1,12 @@
+5
+New_York Baltimore Boston Toronto Detroit
+75 28
+71 28
+69 27
+63 27
+49 27
+0 3 8 7 3
+3 0 2 7 7
+8 2 0 0 3
+7 7 0 0 3
+3 7 3 3 0
